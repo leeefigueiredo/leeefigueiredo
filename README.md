@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leeefigueiredo
 - 👀 I’m interested in HTML/CSS/JAVASCRIPT/IT SUPPORT
-  🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently learning JAVASCRIPT
 - 
 
 <!---
